@@ -6,3 +6,4 @@ exercícios (Exercicios.hs), além de um arquivo que contem um projeto proposto 
 Fiquem a vontade para sugeir ou fazer mudanças nos códigos para uma melhor compreensão dos mesmos.
 
 06/01/2022 - Pasta Cap2
+06/01/2022 - Pasta Projeto
