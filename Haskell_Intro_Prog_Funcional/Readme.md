@@ -1,7 +1,7 @@
 # HASKELL UMA INTRODUÇÃO A PROGRAMAÇÃO FUNCIONAL
 
-Aqui estão as soluções dos exercícios desse livro. Cada pasta é referente a um capítulo e contém um arquivo com exemplos do livro (Exemplos.hs) e um arquivo com os
-exercícios (Exercicios.hs), além de um arquivo que contem um projeto proposto pelo livro.
+Aqui estão as soluções dos exercícios desse livro. Cada pasta é referente a um capítulo e contém um arquivo com exemplos contidos no material (Exemplos.hs) e um arquivo com os
+exercícios (Exercicios.hs), além de um arquivo que contem um projeto proposto também no material.
 
 Fiquem a vontade para sugeir ou fazer mudanças nos códigos para uma melhor compreensão dos mesmos.
 
