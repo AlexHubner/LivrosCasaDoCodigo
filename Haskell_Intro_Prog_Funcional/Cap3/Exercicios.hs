@@ -349,6 +349,6 @@ Use	a função maximum .--}
 obtemValor :: [Moeda] -> [Double]
 obtemValor lista = [val x | x <- lista]
 
---Depois fiz a função peincipal.
+--Depois fiz a função principal.
 maxMoeda :: [Moeda] -> Double
 maxMoeda lista = maximum (obtemValor lista)
